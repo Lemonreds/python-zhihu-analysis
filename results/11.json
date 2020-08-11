@@ -1,0 +1,1 @@
+[{"name": "0", "value": 29628, "limit": 0}, {"name": "1-50", "value": 55349, "limit": 50}, {"name": "51-200", "value": 11067, "limit": 200}, {"name": "201-500", "value": 2880, "limit": 500}, {"name": "501-1000", "value": 753, "limit": 1000}, {"name": "1000+", "value": 339, "limit": 9999999}]
